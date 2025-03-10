@@ -114,7 +114,7 @@ const ServicesPage = () => {
               <div className="md:flex">
                 <div className="md:w-1/2 relative h-64 md:h-auto">
                   <Image
-                    src="/corporate-retreat.webp"
+                    src="about/our-story.webp"
                     alt="Corporate Retreat"
                     fill
                     className="object-cover"

@@ -32,8 +32,8 @@ const Footer = () => {
         { name: "Chardham Yatra", href: "/tours/char-dham-yatra" },
         { name: "Kedarnath Yatra", href: "/tours/kedarnath-yatra" },
         { name: "Do Dham Yatra", href: "/tours/do-dham-yatra" },
-        { name: "Badrinath Yatra", href: "/tours/badrinath-yatra" },
-        { name: "Gangotri Yatra", href: "/tours/gangotri-yatra" },
+        { name: "Chakrata Tour", href: "/tours/chakrata-tour" },
+        { name: "Mussoorie Tour", href: "/tours/mussoorie-tour" },
       ],
     },
   ];
