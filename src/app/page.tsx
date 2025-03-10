@@ -33,19 +33,19 @@ const testimonials = [
   {
     name: "Rajesh Sharma",
     location: "Mumbai",
-    quote: "The Chardham Yatra was a life-changing experience. TravelX made every part of our journey comfortable and memorable.",
+    quote: "The Chardham Yatra was a life-changing experience. TheIndianRoamer made every part of our journey comfortable and memorable.",
     rating: 5,
   },
   {
     name: "Priya Patel",
     location: "Delhi",
-    quote: "I'm grateful to the TravelX team for making my Kedarnath pilgrimage so smooth. Their attention to detail was impressive!",
+    quote: "I'm grateful to the TheIndianRoamer team for making my Kedarnath pilgrimage so smooth. Their attention to detail was impressive!",
     rating: 5,
   },
   {
     name: "Arjun Singh",
     location: "Bangalore",
-    quote: "Professional service, knowledgeable guides, and thoughtful planning. I highly recommend TravelX for any spiritual journey.",
+    quote: "Professional service, knowledgeable guides, and thoughtful planning. I highly recommend TheIndianRoamer for any spiritual journey.",
     rating: 4,
   },
 ];
@@ -116,7 +116,7 @@ export default function Home() {
       <div className="bg-gray-50 py-16">
         <div className="container mx-auto px-6">
           <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 mb-12">
-            Why Choose TravelX
+            Why Choose TheIndianRoamer
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">

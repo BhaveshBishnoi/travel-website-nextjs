@@ -82,7 +82,7 @@ const reviews = [
     location: "Ghaziabad, India",
     date: "June 2024",
     rating: 5,
-    comment: "The Tehri Lake Tour organized by TravelX exceeded our expectations. The lake view hotel was stunning, and the water sports were so much fun for our entire family. Seeing the massive Tehri Dam up close was truly impressive!",
+    comment: "The Tehri Lake Tour organized by TheIndianRoamer exceeded our expectations. The lake view hotel was stunning, and the water sports were so much fun for our entire family. Seeing the massive Tehri Dam up close was truly impressive!",
   },
   {
     id: 2,
@@ -90,7 +90,7 @@ const reviews = [
     location: "Dehradun, India",
     date: "May 2024",
     rating: 4,
-    comment: "A wonderful weekend getaway from Dehradun. The boat ride on the turquoise waters of Tehri Lake was the highlight of our trip. TravelX's arrangements were smooth and their team was very responsive.",
+    comment: "A wonderful weekend getaway from Dehradun. The boat ride on the turquoise waters of Tehri Lake was the highlight of our trip. TheIndianRoamer's arrangements were smooth and their team was very responsive.",
   },
   {
     id: 3,
@@ -98,7 +98,7 @@ const reviews = [
     location: "Delhi, India",
     date: "April 2024",
     rating: 5,
-    comment: "Having visited most hill stations in Uttarakhand, Tehri Lake was something unique and refreshing. The adventure activities were well organized, and the views from our hotel room were simply breathtaking. Thanks, TravelX!",
+    comment: "Having visited most hill stations in Uttarakhand, Tehri Lake was something unique and refreshing. The adventure activities were well organized, and the views from our hotel room were simply breathtaking. Thanks, TheIndianRoamer!",
   },
   {
     id: 4,

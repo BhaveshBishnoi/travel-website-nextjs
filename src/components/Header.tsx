@@ -38,7 +38,7 @@ const Header = () => {
             <span>T</span>
           </div>
           <span className="text-2xl font-bold text-gray-800">
-            TravelX
+            TheIndianRoamer
           </span>
         </Link>
 

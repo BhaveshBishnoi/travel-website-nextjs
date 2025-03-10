@@ -48,7 +48,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center">
                 <span className="font-bold text-xl">T</span>
               </div>
-              <h3 className="text-2xl font-bold">TravelX</h3>
+              <h3 className="text-2xl font-bold">TheIndianRoamer</h3>
             </div>
             <p className="text-gray-300">
               Specializing in sacred journeys across India, we help pilgrims experience 
@@ -103,7 +103,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="mr-3 text-blue-400" />
-                <span>info@travelx.com</span>
+                <span>info@TheIndianRoamer.com</span>
               </li>
             </ul>
 
@@ -125,7 +125,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 mt-12 py-8 text-center">
           <p className="text-gray-400">
-            &copy; {currentYear} TravelX. All Rights Reserved.
+            &copy; {currentYear} TheIndianRoamer. All Rights Reserved.
           </p>
         </div>
       </div>

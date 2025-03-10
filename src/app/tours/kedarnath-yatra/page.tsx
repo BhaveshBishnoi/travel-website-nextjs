@@ -125,7 +125,7 @@ const KedarnathYatraPage = () => {
       date: "August 2024",
       rating: 5,
       comment:
-        "One of the most spiritually fulfilling journeys I've ever undertaken. The arrangements by TravelX were impeccable, from comfortable stays to knowledgeable guides who shared fascinating stories about the temple's history.",
+        "One of the most spiritually fulfilling journeys I've ever undertaken. The arrangements by TheIndianRoamer were impeccable, from comfortable stays to knowledgeable guides who shared fascinating stories about the temple's history.",
       avatar: "/avatars/avatar-1.png",
       location: "New Delhi",
     },
@@ -145,7 +145,7 @@ const KedarnathYatraPage = () => {
       date: "June 2024",
       rating: 5,
       comment:
-        "Kedarnath has been on my bucket list for years and TravelX made it possible in the most comfortable way. The trek was tough but the views and spiritual experience were unmatched. Highly recommend!",
+        "Kedarnath has been on my bucket list for years and TheIndianRoamer made it possible in the most comfortable way. The trek was tough but the views and spiritual experience were unmatched. Highly recommend!",
       avatar: "/avatars/avatar-3.png",
       location: "Bangalore",
     },
@@ -155,7 +155,7 @@ const KedarnathYatraPage = () => {
       date: "May 2024",
       rating: 5,
       comment:
-        "As a senior citizen, I was worried about the journey, but TravelX arranged everything perfectly. They even helped arrange a helicopter ride for me. The darshan was divine and worth every effort.",
+        "As a senior citizen, I was worried about the journey, but TheIndianRoamer arranged everything perfectly. They even helped arrange a helicopter ride for me. The darshan was divine and worth every effort.",
       avatar: "/avatars/avatar-4.png",
       location: "Pune",
     },

@@ -103,7 +103,7 @@ const reviews = [
     location: "Mumbai, India",
     date: "May 2024",
     rating: 5,
-    comment: "The Do Dham Yatra was a life-changing experience. TravelX made every part of our journey comfortable and memorable. The guides were knowledgeable about the spiritual significance of each place we visited.",
+    comment: "The Do Dham Yatra was a life-changing experience. TheIndianRoamer made every part of our journey comfortable and memorable. The guides were knowledgeable about the spiritual significance of each place we visited.",
   },
   {
     id: 2,
@@ -111,7 +111,7 @@ const reviews = [
     location: "Delhi, India",
     date: "June 2024",
     rating: 5,
-    comment: "I'm grateful to the TravelX team for making my Kedarnath and Badrinath pilgrimage so smooth. Their attention to detail was impressive, and they handled all the logistics perfectly!",
+    comment: "I'm grateful to the TheIndianRoamer team for making my Kedarnath and Badrinath pilgrimage so smooth. Their attention to detail was impressive, and they handled all the logistics perfectly!",
   },
   {
     id: 3,
@@ -119,7 +119,7 @@ const reviews = [
     location: "Bangalore, India",
     date: "April 2024",
     rating: 4,
-    comment: "Professional service, knowledgeable guides, and thoughtful planning. The accommodations were comfortable considering the remote locations. I highly recommend TravelX for any spiritual journey.",
+    comment: "Professional service, knowledgeable guides, and thoughtful planning. The accommodations were comfortable considering the remote locations. I highly recommend TheIndianRoamer for any spiritual journey.",
   },
   {
     id: 4,
@@ -127,7 +127,7 @@ const reviews = [
     location: "Chennai, India",
     date: "July 2024",
     rating: 5,
-    comment: "TravelX ensured our Do Dham Yatra was both spiritually fulfilling and comfortable. They took care of all arrangements, allowing us to focus on the divine experience. Will definitely travel with them again!",
+    comment: "TheIndianRoamer ensured our Do Dham Yatra was both spiritually fulfilling and comfortable. They took care of all arrangements, allowing us to focus on the divine experience. Will definitely travel with them again!",
   },
 ];
 

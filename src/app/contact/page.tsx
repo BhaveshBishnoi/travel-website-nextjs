@@ -240,8 +240,8 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-bold text-gray-800">Email</h3>
-                    <p className="text-gray-600">info@travelx.com</p>
-                    <p className="text-gray-600">bookings@travelx.com</p>
+                    <p className="text-gray-600">info@TheIndianRoamer.com</p>
+                    <p className="text-gray-600">bookings@TheIndianRoamer.com</p>
                   </div>
                 </div>
 
@@ -310,7 +310,7 @@ const ContactPage = () => {
         <div className="max-w-4xl mx-auto space-y-8">
           {[
             {
-              question: "How do I book a tour with TravelX?",
+              question: "How do I book a tour with TheIndianRoamer?",
               answer: "You can book a tour with us by filling out the contact form above, calling our office directly, or sending us an email. Our team will get back to you within 24 hours to discuss your travel plans and requirements.",
             },
             {

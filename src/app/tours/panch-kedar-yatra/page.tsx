@@ -117,7 +117,7 @@ const reviews = [
     location: "Mumbai, India",
     date: "July 2024",
     rating: 5,
-    comment: "The Panch Kedar Yatra was a life-changing experience. TravelX handled everything perfectly despite the challenging terrain. Our guide was knowledgeable about all the religious significance of each temple. Highly recommended for spiritual seekers!",
+    comment: "The Panch Kedar Yatra was a life-changing experience. TheIndianRoamer handled everything perfectly despite the challenging terrain. Our guide was knowledgeable about all the religious significance of each temple. Highly recommended for spiritual seekers!",
   },
   {
     id: 2,
@@ -125,7 +125,7 @@ const reviews = [
     location: "Lucknow, India",
     date: "June 2024",
     rating: 4,
-    comment: "A spiritually enriching journey that tested our physical limits. Some of the treks were quite challenging, but the divine energy at each temple made it all worthwhile. TravelX arranged good accommodation even in remote locations.",
+    comment: "A spiritually enriching journey that tested our physical limits. Some of the treks were quite challenging, but the divine energy at each temple made it all worthwhile. TheIndianRoamer arranged good accommodation even in remote locations.",
   },
   {
     id: 3,
@@ -133,7 +133,7 @@ const reviews = [
     location: "Indore, India",
     date: "May 2024",
     rating: 5,
-    comment: "As senior citizens, we were concerned about undertaking such a challenging pilgrimage, but TravelX customized the itinerary to our needs. They arranged helicopter services and porters whenever needed. The spiritual experience was profound.",
+    comment: "As senior citizens, we were concerned about undertaking such a challenging pilgrimage, but TheIndianRoamer customized the itinerary to our needs. They arranged helicopter services and porters whenever needed. The spiritual experience was profound.",
   },
   {
     id: 4,
@@ -141,7 +141,7 @@ const reviews = [
     location: "Kolkata, India",
     date: "August 2024",
     rating: 5,
-    comment: "This was our second time with TravelX and they didn't disappoint. The Panch Kedar circuit is less crowded than Char Dham, which made for a more personal and peaceful spiritual experience. The arrangements were flawless despite the remote locations.",
+    comment: "This was our second time with TheIndianRoamer and they didn't disappoint. The Panch Kedar circuit is less crowded than Char Dham, which made for a more personal and peaceful spiritual experience. The arrangements were flawless despite the remote locations.",
   },
 ];
 

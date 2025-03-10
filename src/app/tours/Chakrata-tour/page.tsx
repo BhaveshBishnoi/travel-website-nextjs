@@ -81,7 +81,7 @@ const reviews = [
     location: "New Delhi, India",
     date: "April 2024",
     rating: 5,
-    comment: "Our trip to Chakrata was simply amazing. TravelX arranged everything perfectly - from comfortable accommodations to well-planned sightseeing. Tiger Falls was the highlight of our journey, truly mesmerizing.",
+    comment: "Our trip to Chakrata was simply amazing. TheIndianRoamer arranged everything perfectly - from comfortable accommodations to well-planned sightseeing. Tiger Falls was the highlight of our journey, truly mesmerizing.",
   },
   {
     id: 2,
@@ -89,7 +89,7 @@ const reviews = [
     location: "Chandigarh, India",
     date: "March 2024",
     rating: 4,
-    comment: "Chakrata is a hidden gem compared to crowded hill stations like Mussoorie. TravelX ensured we experienced the best of this pristine location. The tour plan was well-balanced between adventure and relaxation.",
+    comment: "Chakrata is a hidden gem compared to crowded hill stations like Mussoorie. TheIndianRoamer ensured we experienced the best of this pristine location. The tour plan was well-balanced between adventure and relaxation.",
   },
   {
     id: 3,
@@ -97,7 +97,7 @@ const reviews = [
     location: "Gurgaon, India",
     date: "May 2024",
     rating: 5,
-    comment: "As a nature photographer, Chakrata was paradise for me. TravelX's guide knew exactly which spots would offer the best photography opportunities. The views from Chilmiri Neck were spectacular!",
+    comment: "As a nature photographer, Chakrata was paradise for me. TheIndianRoamer's guide knew exactly which spots would offer the best photography opportunities. The views from Chilmiri Neck were spectacular!",
   },
   {
     id: 4,
@@ -105,7 +105,7 @@ const reviews = [
     location: "Lucknow, India",
     date: "February 2024",
     rating: 5,
-    comment: "We were looking for a peaceful retreat away from crowded tourist spots, and TravelX's Chakrata tour delivered exactly that. The deodar forests in Kanasar were like something out of a fairy tale. Highly recommended!",
+    comment: "We were looking for a peaceful retreat away from crowded tourist spots, and TheIndianRoamer's Chakrata tour delivered exactly that. The deodar forests in Kanasar were like something out of a fairy tale. Highly recommended!",
   },
 ];
 

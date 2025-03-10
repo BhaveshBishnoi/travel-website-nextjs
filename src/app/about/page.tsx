@@ -79,19 +79,19 @@ const AboutPage = () => {
 
   const testimonials = [
     {
-      quote: "TravelX made our family trip to Uttarakhand absolutely perfect. Everything from accommodations to guided tours exceeded our expectations!",
+      quote: "TheIndianRoamer made our family trip to Uttarakhand absolutely perfect. Everything from accommodations to guided tours exceeded our expectations!",
       author: "Ravi & Sunita Kapoor",
       location: "Delhi",
       image: "/avatars/avatar-1.png",
     },
     {
-      quote: "As a solo traveler, safety was my concern. TravelX not only ensured I felt secure throughout my journey but also helped me create unforgettable memories.",
+      quote: "As a solo traveler, safety was my concern. TheIndianRoamer not only ensured I felt secure throughout my journey but also helped me create unforgettable memories.",
       author: "Meera Joshi",
       location: "Bangalore",
       image: "/avatars/avatar-2.png",
     },
     {
-      quote: "The level of personalization and attention to detail that TravelX provides is unmatched. They truly understand what travelers need.",
+      quote: "The level of personalization and attention to detail that TheIndianRoamer provides is unmatched. They truly understand what travelers need.",
       author: "Arjun Nair",
       location: "Mumbai",
       image: "/avatars/avatar-3.png",
@@ -111,7 +111,7 @@ const AboutPage = () => {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent flex flex-col justify-end items-center text-center px-8 pb-16">
           <h1 className="text-4xl md:text-6xl text-white font-bold mb-4 animate-fade-in-up">
-            Discover the Story of TravelX
+            Discover the Story of TheIndianRoamer
           </h1>
           <p className="text-xl text-gray-200 max-w-2xl animate-fade-in-up animation-delay-300">
             Your trusted companion for extraordinary adventures across India
@@ -127,7 +127,7 @@ const AboutPage = () => {
               <div className="relative h-[500px] w-full rounded-lg overflow-hidden shadow-xl">
                 <Image
                   src="/about/our-story.webp"
-                  alt="TravelX journey"
+                  alt="TheIndianRoamer journey"
                   fill
                   className="object-cover"
                 />
@@ -141,15 +141,15 @@ const AboutPage = () => {
               <div className="inline-block bg-blue-100 text-blue-800 px-4 py-1 rounded-full text-sm font-semibold mb-4">
                 Our Journey
               </div>
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">The TravelX Story</h2>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">The TheIndianRoamer Story</h2>
               <p className="text-gray-600 mb-6">
-                TravelX was born out of a deep passion for India's diverse landscapes and rich cultural heritage. What started as a small venture by a group of travel enthusiasts in 2016 has grown into one of North India's most trusted travel companies.
+                TheIndianRoamer was born out of a deep passion for India's diverse landscapes and rich cultural heritage. What started as a small venture by a group of travel enthusiasts in 2016 has grown into one of North India's most trusted travel companies.
               </p>
               <p className="text-gray-600 mb-6">
                 Our founder, Rahul Gupta, after years of corporate life, decided to pursue his love for travel and showcase the hidden gems of India to the world. He brought together a team of like-minded professionals who shared his vision of providing authentic, immersive travel experiences.
               </p>
               <p className="text-gray-600">
-                Today, TravelX specializes in curating personalized journeys that connect travelers with the true essence of each destination. We take pride in our deep local knowledge, attention to detail, and commitment to responsible tourism practices.
+                Today, TheIndianRoamer specializes in curating personalized journeys that connect travelers with the true essence of each destination. We take pride in our deep local knowledge, attention to detail, and commitment to responsible tourism practices.
               </p>
             </div>
           </div>
@@ -202,7 +202,7 @@ const AboutPage = () => {
         <div className="container mx-auto">
           <div className="text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-1 rounded-full text-sm font-semibold mb-4">
-              The Faces Behind TravelX
+              The Faces Behind TheIndianRoamer
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Meet Our Team</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
@@ -240,7 +240,7 @@ const AboutPage = () => {
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">What Our Customers Say</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Don't just take our word for it—hear what our travelers have to say about their experiences with TravelX.
+              Don't just take our word for it—hear what our travelers have to say about their experiences with TheIndianRoamer.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

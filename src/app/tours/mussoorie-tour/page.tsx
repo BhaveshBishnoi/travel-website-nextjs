@@ -107,7 +107,7 @@ const MussoorieTourPage = () => {
       date: "September 2024",
       rating: 5,
       comment:
-        "Our Mussoorie trip was fantastic! TravelX took care of everything from hotel bookings to sightseeing. The views from Lal Tibba were breathtaking, and the hotel they arranged had an amazing view of the valley.",
+        "Our Mussoorie trip was fantastic! TheIndianRoamer took care of everything from hotel bookings to sightseeing. The views from Lal Tibba were breathtaking, and the hotel they arranged had an amazing view of the valley.",
       avatar: "/avatars/avatar-2.png",
       location: "Mumbai",
     },
@@ -127,7 +127,7 @@ const MussoorieTourPage = () => {
       date: "July 2024",
       rating: 5,
       comment:
-        "Traveling with two kids, I was worried about the arrangements, but TravelX made it completely hassle-free. The Kempty Falls visit was the highlight for the kids. Will definitely book through them again!",
+        "Traveling with two kids, I was worried about the arrangements, but TheIndianRoamer made it completely hassle-free. The Kempty Falls visit was the highlight for the kids. Will definitely book through them again!",
       avatar: "/avatars/avatar-4.png",
       location: "Chandigarh",
     },

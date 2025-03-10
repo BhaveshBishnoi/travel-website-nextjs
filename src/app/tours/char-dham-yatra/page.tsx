@@ -133,7 +133,7 @@ const reviews = [
     location: "Delhi, India",
     date: "July 2024",
     rating: 5,
-    comment: "Our Char Dham Yatra with TravelX was flawless. From comfortable accommodations to timely transfers, everything was well-organized. The guides were knowledgeable and helped us understand the spiritual significance of each temple. Highly recommended!",
+    comment: "Our Char Dham Yatra with TheIndianRoamer was flawless. From comfortable accommodations to timely transfers, everything was well-organized. The guides were knowledgeable and helped us understand the spiritual significance of each temple. Highly recommended!",
   },
   {
     id: 2,
@@ -141,7 +141,7 @@ const reviews = [
     location: "Ahmedabad, India",
     date: "June 2024",
     rating: 4,
-    comment: "TravelX made our spiritual journey comfortable despite the challenging terrains. The staff was courteous and always ready to help. The accommodations were decent considering the remote locations. The only suggestion would be to add more rest days in the itinerary.",
+    comment: "TheIndianRoamer made our spiritual journey comfortable despite the challenging terrains. The staff was courteous and always ready to help. The accommodations were decent considering the remote locations. The only suggestion would be to add more rest days in the itinerary.",
   },
   {
     id: 3,
@@ -149,7 +149,7 @@ const reviews = [
     location: "Jaipur, India",
     date: "May 2024",
     rating: 5,
-    comment: "This was my second Char Dham Yatra, but first with TravelX, and I must say the difference was remarkable. The smooth coordination, timely departures, and spiritual guidance made this journey truly memorable. Will definitely choose them for future pilgrimages.",
+    comment: "This was my second Char Dham Yatra, but first with TheIndianRoamer, and I must say the difference was remarkable. The smooth coordination, timely departures, and spiritual guidance made this journey truly memorable. Will definitely choose them for future pilgrimages.",
   },
   {
     id: 4,
@@ -157,7 +157,7 @@ const reviews = [
     location: "Mumbai, India",
     date: "August 2024",
     rating: 5,
-    comment: "Being elderly, we were concerned about the difficult terrain, but TravelX took excellent care of us. The team was patient, helpful, and made special arrangements whenever needed. The journey was spiritually fulfilling and physically comfortable. Thank you!",
+    comment: "Being elderly, we were concerned about the difficult terrain, but TheIndianRoamer took excellent care of us. The team was patient, helpful, and made special arrangements whenever needed. The journey was spiritually fulfilling and physically comfortable. Thank you!",
   },
 ];
 

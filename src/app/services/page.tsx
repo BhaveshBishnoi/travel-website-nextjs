@@ -81,10 +81,10 @@ const ServicesPage = () => {
       <div className="container mx-auto px-6 py-16">
         <div className="max-w-4xl mx-auto text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-800 mb-6">
-            Experience Seamless Travel with TravelX
+            Experience Seamless Travel with TheIndianRoamer
           </h2>
           <p className="text-gray-600">
-            At TravelX, we offer a comprehensive range of travel services to ensure your journey through Uttarakhand is comfortable, memorable, and hassle-free. From the moment you plan your trip until you return home, our team is dedicated to providing exceptional service.
+            At TheIndianRoamer, we offer a comprehensive range of travel services to ensure your journey through Uttarakhand is comfortable, memorable, and hassle-free. From the moment you plan your trip until you return home, our team is dedicated to providing exceptional service.
           </p>
         </div>
 
@@ -157,7 +157,7 @@ const ServicesPage = () => {
       {/* Why Choose Us */}
       <div className="container mx-auto px-6 py-16">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">
-          Why Choose TravelX Services
+          Why Choose TheIndianRoamer Services
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {[
