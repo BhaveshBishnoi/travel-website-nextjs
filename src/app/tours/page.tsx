@@ -26,25 +26,25 @@ const tours = [
     link: "/tours/kedarnath-yatra",
   },
   {
-    name: "Badrinath Yatra",
-    image: "/Tours/Badrinath_Yatra.webp",
+    name: "Mussoorie Tour",
+    image: "/Tours/mountains.jpg",
     description:
-      "Visit the holy shrine of Lord Vishnu nestled in the Garhwal Hills.",
-    link: "/tours/badrinath-yatra",
+      "Explore the Queen of Hills with stunning mountain views and colonial charm.",
+    link: "/tours/mussoorie-tour",
   },
   {
-    name: "Gangotri Yatra",
+    name: "Chakrata Tour",
     image: "/Tours/Gangotri-Yatra.webp",
     description:
-      "Explore the source of the sacred River Ganges in the magnificent Himalayas.",
-    link: "/tours/gangotri-yatra",
+      "Discover a hidden Himalayan gem with pristine forests and breathtaking views.",
+    link: "/tours/Chakrata-tour",
   },
   {
-    name: "Yamunotri Yatra",
-    image: "/Tours/Yamunotri-Yatra.webp",
+    name: "Tehri Lake Tour",
+    image: "/Tours/ganaga-aarti-evening-scaled.webp",
     description:
-      "Discover the source of the Yamuna River and its spiritual significance.",
-    link: "/tours/yamunotri-yatra",
+      "Experience the beauty of Asia's largest man-made lake and exciting water activities.",
+    link: "/tours/Tehri-lake-tour",
   },
   {
     name: "Jagannath Puri Yatra",
@@ -54,11 +54,11 @@ const tours = [
     link: "/tours/jagannath-puri-yatra",
   },
   {
-    name: "Ganga Aarti",
-    image: "/Tours/ganaga-aarti-evening-scaled.webp",
+    name: "Panch Kedar Yatra",
+    image: "/Tours/Badrinath_Yatra.webp",
     description:
-      "Witness the mesmerizing Ganga Aarti ceremony along the banks of the holy river.",
-    link: "/tours/ganga-aarti",
+      "Visit the five sacred Shiva temples in the Garhwal Himalayas region.",
+    link: "/tours/panch-kedar-yatra",
   },
 ];
 

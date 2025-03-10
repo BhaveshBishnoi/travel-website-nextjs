@@ -195,6 +195,69 @@ const TehriLakeTour = () => {
         </div>
       </div>
 
+      {/* Top Attractions Section */}
+      <div className="bg-blue-50 py-16">
+        <div className="container mx-auto px-6">
+          <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">
+            Top Attractions at Tehri Lake
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[
+              {
+                title: "Tehri Dam",
+                description: "One of Asia's highest and largest dams, this engineering marvel is a sight to behold. The dam is built on the Bhagirathi River and has created the massive Tehri Lake reservoir.",
+                elevation: "260 meters height",
+                highlight: "Second highest dam in Asia",
+              },
+              {
+                title: "Tehri Lake",
+                description: "The artificial reservoir created by the Tehri Dam, spanning over 42 square kilometers. The emerald blue waters against the backdrop of mountains create a picturesque setting.",
+                elevation: "830 meters",
+                highlight: "Largest artificial lake in India",
+              },
+              {
+                title: "Water Sports Complex",
+                description: "A hub for various adventure activities including jet skiing, banana boat rides, kayaking, and canoeing. Perfect for adventure enthusiasts and family fun.",
+                elevation: "830 meters",
+                highlight: "Most diverse water sports in Uttarakhand",
+              },
+              {
+                title: "New Tehri Town",
+                description: "Built to rehabilitate the residents of Old Tehri town, which was submerged under the reservoir. The town offers stunning views of the lake and surrounding mountains.",
+                elevation: "1,550 meters",
+                highlight: "First planned hill town in Uttarakhand",
+              },
+              {
+                title: "Chandrabadni Temple",
+                description: "A sacred temple dedicated to Goddess Chandrabadni, situated at a height offering panoramic views of the Tehri Lake and surrounding Himalayan ranges.",
+                elevation: "2,277 meters",
+                highlight: "Ancient temple with panoramic views",
+              },
+              {
+                title: "Koti Colony",
+                description: "A beautiful area with comfortable accommodations offering stunning views of the lake. The viewpoint here provides one of the best sunset views over Tehri Lake.",
+                elevation: "1,600 meters",
+                highlight: "Best sunset views over the lake",
+              },
+            ].map((site, index) => (
+              <div key={index} className="bg-white rounded-xl shadow-md overflow-hidden">
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-gray-800 mb-2">{site.title}</h3>
+                  <div className="flex items-center text-gray-600 mb-4">
+                    <MapPin size={16} className="mr-1" />
+                    <span>{site.elevation}</span>
+                  </div>
+                  <p className="text-gray-600 mb-4">{site.description}</p>
+                  <div className="bg-blue-50 p-3 rounded-lg">
+                    <p className="text-blue-700 font-medium">Highlight: {site.highlight}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
       {/* Adventure Activities Section */}
       <div className="bg-blue-50 py-16">
         <div className="container mx-auto px-6">

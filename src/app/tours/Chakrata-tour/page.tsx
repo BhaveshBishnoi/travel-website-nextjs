@@ -177,6 +177,63 @@ const ChakrataTour = () => {
         </div>
       </div>
 
+      {/* Top Attractions Section */}
+      <div className="bg-blue-50 py-16">
+        <div className="container mx-auto px-6">
+          <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">
+            Top Attractions in Chakrata
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[
+              {
+                title: "Tiger Falls",
+                description: "One of the highest direct waterfalls in India with a height of 312 feet. The crystal clear water cascading down the rocky mountains creates a mesmerizing sight.",
+                elevation: "1,800 meters",
+                highlight: "Highest waterfall in Uttarakhand",
+              },
+              {
+                title: "Deoban",
+                description: "Famous for its ancient deodar forests and panoramic views of snow-capped Himalayan peaks. On a clear day, you can see peaks like Bandarpunch and Swargarohini.",
+                elevation: "2,400 meters",
+                highlight: "Stunning Himalayan views",
+              },
+              {
+                title: "Chilmiri Neck",
+                description: "A vantage point offering breathtaking views of the snow-covered Himalayan ranges. Popular for sunrise and sunset views, and a paradise for photographers.",
+                elevation: "2,300 meters",
+                highlight: "Panoramic 360° mountain views",
+              },
+              {
+                title: "Kanasar",
+                description: "Home to some of the oldest and tallest deodar trees in Asia, with some trees believed to be over a thousand years old. The dense forest is perfect for nature walks.",
+                elevation: "2,200 meters",
+                highlight: "Ancient deodar forest",
+              },
+              {
+                title: "Mundali",
+                description: "A beautiful meadow surrounded by dense forests, offering spectacular views of the Himalayas. In winter, it transforms into a skiing destination.",
+                elevation: "2,700 meters",
+                highlight: "Winter skiing destination",
+              },
+            ].map((site, index) => (
+              <div key={index} className="bg-white rounded-xl shadow-md overflow-hidden">
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-gray-800 mb-2">{site.title}</h3>
+                  <div className="flex items-center text-gray-600 mb-4">
+                    <MapPin size={16} className="mr-1" />
+                    <span>{site.elevation}</span>
+                  </div>
+                  <p className="text-gray-600 mb-4">{site.description}</p>
+                  <div className="bg-blue-50 p-3 rounded-lg">
+                    <p className="text-blue-700 font-medium">Highlight: {site.highlight}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
       {/* Pricing Section */}
       <div className="container mx-auto px-6 py-16">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">
