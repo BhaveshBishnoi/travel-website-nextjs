@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TravelX - Sacred Journeys Across India",
+  title: "TheIndianRoamer - Sacred Journeys Across India",
   description: "Experience spiritual adventures to India's most sacred destinations with expert guidance and comfortable travel.",
 };
 
