@@ -1,41 +1,38 @@
 "use client";
 
 import Link from "next/link";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import Image from "next/image";
 
-const TourCard = ({
-  tour,
-}: {
-  tour: {
-    id: number;
-    name: string;
-    image: string;
-    price: number;
-    description: string;
-  };
-}) => {
+interface CardProps {
+  name: string;
+  image: string;
+  description: string;
+  link: string;
+}
+
+export default function TourCard({
+  name,
+  image,
+  description,
+  link,
+}: CardProps) {
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle>{tour.name}</CardTitle>
-      </CardHeader>
-      <CardContent>
-        <img
-          src={tour.image}
-          alt={tour.name}
-          className="w-full h-48 object-cover rounded-md"
+    <Link href={link} className="group">
+      <div className="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-300 hover:scale-105 hover:shadow-xl">
+        <Image
+          src={image}
+          alt={name}
+          width={400}
+          height={250}
+          className="w-full h-52 object-cover"
         />
-        <p className="text-gray-600 mt-2">
-          {tour.description.substring(0, 100)}...
-        </p>
-        <p className="text-blue-600 font-bold mt-2">${tour.price}</p>
-        <Button asChild className="mt-4 w-full">
-          <Link href={`/tour/${tour.id}`}>View Details</Link>
-        </Button>
-      </CardContent>
-    </Card>
+        <div className="p-5">
+          <h2 className="text-xl font-semibold text-gray-800 group-hover:text-blue-600">
+            {name}
+          </h2>
+          <p className="text-gray-600 mt-2">{description}</p>
+        </div>
+      </div>
+    </Link>
   );
-};
-
-export default TourCard;
+}
