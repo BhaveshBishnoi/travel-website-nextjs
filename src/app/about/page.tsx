@@ -6,27 +6,27 @@ import { Calendar, Users, Globe, MapPin, Heart, Shield, Star, Award, Smile, Thum
 const AboutPage = () => {
   const teamMembers = [
     {
-      name: "Rahul Gupta",
+      name: "Sumit Samantray",
       role: "Founder & CEO",
-      bio: "With over 15 years of experience in the travel industry, Rahul founded TravelX to help people discover the beauty of India's landscapes and heritage.",
+      bio: "With over 15 years of experience in the travel industry, Sumit founded TheIndianRoamer to help people discover the beauty of India's landscapes and heritage.",
       image: "/team/founder.webp",
     },
     {
-      name: "Priya Sharma",
+      name: "Lalit Thuwal",
       role: "Travel Expert",
-      bio: "Priya has explored more than 100 destinations across India and specializes in crafting unforgettable Himalayan adventures.",
+      bio: "Lalit has explored more than 100 destinations across India and specializes in crafting unforgettable Himalayan adventures.",
       image: "/team/travel-expert.webp",
     },
     {
-      name: "Vikram Singh",
+      name: "Bhavesh Bishnoi",
       role: "Operations Manager",
-      bio: "Vikram ensures that every aspect of your journey is meticulously planned and executed with precision and care.",
+      bio: "Bhavesh ensures that every aspect of your journey is meticulously planned and executed with precision and care.",
       image: "/team/operations.webp",
     },
     {
-      name: "Ananya Patel",
+      name: "Dikshita Rawat",
       role: "Customer Experience",
-      bio: "Ananya is dedicated to providing exceptional service and making sure every traveler feels supported throughout their journey.",
+      bio: "Dikshita is dedicated to providing exceptional service and making sure every traveler feels supported throughout their journey.",
       image: "/team/customer.webp",
     },
   ];
